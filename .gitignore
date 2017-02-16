@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Django stuff:
+*.log
+local.py
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# database
+.data
+DATA/
